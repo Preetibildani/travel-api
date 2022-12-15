@@ -1,5 +1,5 @@
 {
-  "delhi": [
+  "hoteldata": [
     {
       "id": 1,
       "city": "Delhi",
@@ -651,9 +651,9 @@
       "price1": "Rs5,000",
       "available": "true",
       "price2": "5600"
-    }
-  ],
-  "goa": [
+    },
+
+  
     {
       "id": 32,
       "city": "Goa",
@@ -1665,9 +1665,9 @@
       "heading3": "",
       "price1": "Rs5,168",
       "price2": "5929"
-    }
-  ],
-  "mumbai": [
+    },
+ 
+  
     {
       "id": 81,
       "city": "Mumbai",
@@ -2003,9 +2003,9 @@
       "heading3": "VIP Access",
       "price1": "Rs13,500",
       "price2": "15930"
-    }
-  ],
-  "pune": [
+    },
+ 
+  
     {
       "id": 97,
       "city": "Pune",
