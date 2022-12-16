@@ -739,27 +739,7 @@
       "available": "true"
 
     },
-    {
-      "id": 36,
-      "city": "Goa",
-      "heading1": "Grand Hotel Mediterranée",
-      "heading2": "Pegli",
-      "img1": "https://images.trvl-media.com/hotels/1000000/920000/915400/915364/b0fe6b88.jpg?impolicy=resizecrop&rw=455&ra=fit",
-      "img2": "https://images.trvl-media.com/hotels/1000000/920000/915400/915364/431d2d54.jpg?impolicy=resizecrop&rw=455&ra=fit",
-      "img3": "https://images.trvl-media.com/hotels/1000000/920000/915400/915364/2f4dca80.jpg?impolicy=resizecrop&rw=455&ra=fit",
-      "img4": "https://images.trvl-media.com/hotels/1000000/920000/915400/915364/a462fdfc.jpg?impolicy=resizecrop&rw=455&ra=fit",
-      "text1": "Reserve A Luxe Urban Escape",
-      "text2": "2 bedroom, 1 bathroom",
-      "rating": "3.8/5",
-      "review": "Good",
-      "no_of_reviews": "(557 reviews)",
-      "heading3": "We have 2 left at 10% off at",
-      "price1": "Rs7,475",
-      "text4": "Reserve now, pay later",
-      "text3": "Fully refundable",
-      "available": "true",
-      "price2": "8466"
-    },
+    
     {
       "id": 36,
       "city": "Goa",
@@ -2551,6 +2531,27 @@
       "heading3": "50% off",
       "price1": "Rs2,284",
       "price2": "2558"
+    },
+    {
+      "id": 123,
+      "city": "Goa",
+      "heading1": "Grand Hotel Mediterranée",
+      "heading2": "Pegli",
+      "img1": "https://images.trvl-media.com/hotels/1000000/920000/915400/915364/b0fe6b88.jpg?impolicy=resizecrop&rw=455&ra=fit",
+      "img2": "https://images.trvl-media.com/hotels/1000000/920000/915400/915364/431d2d54.jpg?impolicy=resizecrop&rw=455&ra=fit",
+      "img3": "https://images.trvl-media.com/hotels/1000000/920000/915400/915364/2f4dca80.jpg?impolicy=resizecrop&rw=455&ra=fit",
+      "img4": "https://images.trvl-media.com/hotels/1000000/920000/915400/915364/a462fdfc.jpg?impolicy=resizecrop&rw=455&ra=fit",
+      "text1": "Reserve A Luxe Urban Escape",
+      "text2": "2 bedroom, 1 bathroom",
+      "rating": "3.8/5",
+      "review": "Good",
+      "no_of_reviews": "(557 reviews)",
+      "heading3": "We have 2 left at 10% off at",
+      "price1": "Rs7,475",
+      "text4": "Reserve now, pay later",
+      "text3": "Fully refundable",
+      "available": "true",
+      "price2": "8466"
     }
   ],
   
